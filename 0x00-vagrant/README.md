@@ -1,1 +1,1 @@
-uname output
+Linux
